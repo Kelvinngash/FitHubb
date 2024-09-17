@@ -71,6 +71,7 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    font-size: 20px;
 }
 #gymImage {
     border-radius: 10%;
@@ -107,7 +108,7 @@ h2 {
     background-color: black;
     display: flex;
     justify-content: space-evenly;
-    height: 5%;
+    height: 7%;
     margin: auto;
     padding: 20px;
     width: 70%;
