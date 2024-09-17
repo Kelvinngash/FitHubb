@@ -17,7 +17,7 @@ body {
     font-size: 10px;
     font-weight: 20000;
     overflow: hidden;
-    width: 1450px;
+    width: 100%;
     margin: 20px;
     color: green;
 }
