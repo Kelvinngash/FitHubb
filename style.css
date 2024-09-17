@@ -117,6 +117,7 @@ h2 {
     border-radius: 20%;
     border-width: 2px;
     box-shadow: -20px -20px 30px rgba(255,255,255,0.7),20px 20px 20px rgba(0,0,0,0.8);
+    back-groundimage: url("images/shopping.webp");
 }
 #stat {
     margin: 5px;
